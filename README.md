@@ -6,13 +6,8 @@ Ourém - Sintra - Dez. 2025
 
 
 itinerario:
-sábado	
-08:30	alvorada Melroeira
-09:00	Partida - destina Muge ( Santarém )
-	Reforço alimentar e baterias
-	Chegada
-	Almoço
-	Tema Livre
+
+
 <img width="439" height="205" alt="image" src="https://github.com/user-attachments/assets/5e3e64ea-7807-4cd8-99e5-7ddc0c47cc4d" />
 
 
