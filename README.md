@@ -7,7 +7,8 @@ Ourém - Sintra - Dez. 2025
 
 itinerario:
 
-<img width="439" height="704" alt="image" src="https://github.com/user-attachments/assets/f395e852-46d0-4eb8-89b5-0a7c8c2160a0" />
+<img width="439" height="704" alt="image" src="https://github.com/user-attachments/assets/24a98c03-fa12-46e0-8bbd-ec5cf12533c1" />
+
 
 
 
