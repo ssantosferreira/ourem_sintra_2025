@@ -1,50 +1,11 @@
 # ourem_sintra_2025
 Ourém - Sintra - Dez. 2025
 
-Itinerário: 
-sábado - 06
-08:30	alvorada Melroeira
-09:00	Partida - destino Muge ( Santarém )
- 	Reforço alimentar e baterias
- 	Chegada
- 	Almoço
- 	Tema Livre
-23:00	Dormida Valada Village
- 	 
- 	 
-domingo - 07
-08:30	alvorada Valada do Ribatejo
-09:00	Partida - destino Lisboa ( Jamor )
- 	Reforço alimentar e baterias
- 	Chegada
- 	Almoço
- 	Tema Livre
-23:00	Dormida Sintra
- 	 
- 	 
-segunda - 08
-08:30	alvorada Sintra
-09:00	Partida - Serra Sintra / Cascais
-13:00	Almoço
+<img width="322" height="548" alt="{9B09FDD5-80CC-4B52-8751-C4E98823EE72}" src="https://github.com/user-attachments/assets/c5cdb963-d6d8-4200-9525-30403592f626" />
 
-Material:
-•	bicicleta
-•	botija de água
-•	capacete
-•	roupa apropriada:
-o	calçoes com silicone ou almofada
-o	luvas ( quentinhas )
-o	meias
-o	jerseys ou t-shirts
-o	corta vento e/ impermeavel
-•	kit rodas/pneus
-o	camaras de ar
-o	bomba de ar ou mini compressor ( quem tiver )
-o	ferramenta bike
-•	mochila pequena
-•	necessaire
-•	carregador telemovel
-•	power bank
+<img width="410" height="557" alt="{9FEDD745-9865-4644-B804-AA0602E157A2}" src="https://github.com/user-attachments/assets/677c6b47-d42c-4af6-bc4e-3f8001338b89" />
+
+
 
 
 
